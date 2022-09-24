@@ -1,0 +1,2 @@
+2022-01-24 09:52:45.4028 Error The number of rows provided for a FETCH clause must be greater then zero.
+2022-01-24 09:53:13.3306 Error The number of rows provided for a FETCH clause must be greater then zero.

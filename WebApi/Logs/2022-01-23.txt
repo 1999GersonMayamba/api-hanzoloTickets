@@ -1,0 +1,1 @@
+2022-01-23 03:18:08.2337 Error Invalid column name 'MesmaReda'.

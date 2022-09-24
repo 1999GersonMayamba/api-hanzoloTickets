@@ -1,0 +1,1 @@
+2021-07-28 21:27:30.4502 Error An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
